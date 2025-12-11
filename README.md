@@ -28,14 +28,14 @@ Development Timeline:
 
 My project follows a structured month-by-month roadmap:
 
-Nov 2025: Design, print and stress test the TVC mount, the reaction wheel and the payload bay.
-Dec 2025: Design and simulate and prepare the code for the PCB.
-Jan 2026: Test the TVC with real motors, sssemble prototype rocket (without parachute), refine TVC mount, begin full system dry runs.
-Feb 2026: First flight test of the prototype, collect IMU/GPS data, evaluate control authority.
-Mar 2026: Analyze flight performance, improve PID tuning, begin landing system integration.
-Apr 2026: Integrate final landing mechanism, conduct ground validations.
-May 2026: Perform full integration test and finalize launch preparation for main flight.
-Jun 2026: Full-system launch and documentation of results.
+- Nov 2025: Design, print and stress test the TVC mount, the reaction wheel and the payload bay.
+- Dec 2025: Design and simulate and prepare the code for the PCB.
+- Jan 2026: Test the TVC with real motors, sssemble prototype rocket (without parachute), refine TVC mount, begin full system dry runs.
+- Feb 2026: First flight test of the prototype, collect IMU/GPS data, evaluate control authority.
+- Mar 2026: Analyze flight performance, improve PID tuning, begin landing system integration.
+- Apr 2026: Integrate final landing mechanism, conduct ground validations.
+- May 2026: Perform full integration test and finalize launch preparation for main flight.
+- Jun 2026: Full-system launch and documentation of results.
 
 System Architecture
 Core Components:
