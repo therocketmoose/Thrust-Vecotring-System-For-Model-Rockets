@@ -10,7 +10,7 @@ This repository contains the full development of a thrust-controlled landing sys
 
 The rocket platform itself is not the primary focus; the emphasis is the TCLS hardware, control algorithms, and validation testing necessary to achieve reliable vertical landing.
 
-<img width="1918" height="1079" alt="Image" src="https://github.com/user-attachments/assets/1ebc8eed-accb-4e82-9dd9-2f9bba56510f" />
+ <img width="149" height="141" alt="Image" src="https://github.com/user-attachments/assets/14417999-1122-4714-a8b4-7e24a13cc662" />
 
 Project Goals:
 - Develop a fully functional thrust vectoring system capable of four-axis gimbal control for ascent and landing.
@@ -52,7 +52,7 @@ Core Components:
 
 - Structure: Carbon fiber body, TVC gimbal, electronics bay, reaction wheel assembly.
 
- <img width="149" height="141" alt="Image" src="https://github.com/user-attachments/assets/14417999-1122-4714-a8b4-7e24a13cc662" />
+<img width="1030" height="716" alt="Image" src="https://github.com/user-attachments/assets/bd0fde57-8fbf-4c6b-bdda-b559973ebc9c" />
 
 CAD & Mechanical: 
 The CAD design includes
@@ -63,7 +63,7 @@ The CAD design includes
 
 - A payload bay positioned directly above the TVC to avoid cable latency.
 
-<img width="1030" height="716" alt="Image" src="https://github.com/user-attachments/assets/bd0fde57-8fbf-4c6b-bdda-b559973ebc9c" />
+<img width="1918" height="1079" alt="Image" src="https://github.com/user-attachments/assets/1ebc8eed-accb-4e82-9dd9-2f9bba56510f" />
 
 Simulation Work
 
