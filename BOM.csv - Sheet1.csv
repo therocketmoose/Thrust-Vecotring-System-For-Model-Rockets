@@ -1,0 +1,13 @@
+CPN,Part Name,Qty,Manufacturer,Mfg Part #,Price,Link
+20 0001,Teensy 4.1 Development Board,1,PJRC,TEENSY41,57.25,https://www.amazon.es/dp/B08CTM3279
+30 0001,TSP F35-p Rocket Engine 29mm (Pack of 2),1,TSP,F35-P,64,https://www.sierrafoxhobbies.com/en/2439-f35-p-single-use-tsp-29-mm-model-rocket-engine-2-pcs.html
+20 0002,BMI088 Shuttle Board,1,Bosch Sensortec,BMI088-SB,16.54,https://www.mouser.es/ProductDetail/Bosch-Sensortec/BMI088-Shuttle-Board-30
+20 0003,MS5611 Barometric Pressure Sensor,1,TE Connectivity,MS5611-01BA03,7.87,https://www.manomano.es/componentes-electronicos-4189
+20 0004,LoRa Module SX1278 (433MHz),1,Generic,SX1278,9.99,https://www.amazon.es/dp/B07J66GFS5
+40 0001,5V DC Motor,1,Generic,N/A,7.99,https://www.amazon.es/dp/B07HBMQ4GF
+40 0002,9g Micro Servo (Pack),1,Generic,SG90,11.99,https://www.amazon.es/dp/B0DP3VG59G
+40 0003,5g Micro Servo (Pack),1,Generic,GH-S37D,11.13,https://www.amazon.es/dp/B0CQWPPTFV
+20 0005,ESP32-WROOM-32 Dev Module,1,Espressif,ESP32-WROOM,14.99,https://www.amazon.es/dp/B0F48GSWKP
+20 0006,SX1276 LoRa Receiver (868/915MHz),1,Generic,SX1276,7.06,https://www.amazon.es/dp/B0B1LYDMTN
+20 0007,LoRa/RF Antenna,1,Generic,N/A,18.57,https://www.amazon.es/dp/B0F9F38JWH
+50 0001,Custom Carbon Fiber Tubes (Est.),1,Custom Fabrication,Custom,70,N/A
