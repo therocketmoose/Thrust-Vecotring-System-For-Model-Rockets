@@ -8,9 +8,9 @@ Project Overview:
 
 This repository contains the full development of a thrust-controlled landing system (TCLS) for a model rocket platform. The project aims to design, build, and test a reusable model rocket capable of performing controlled ascent, attitude stabilization, descent management, and soft landing. The objective is to create a working proof-of-concept that integrates thrust vectoring, aerodynamic control, reaction wheel stabilization, and deployable landing legs into a unified flight system. This project is expected to operate over a one-year development window, with several intermediate prototypes and test campaigns.
 
-The rocket platform itself is not the primary focus; the emphasis is the TCLS hardware, control algorithms, and validation testing necessary to achieve reliable vertical landing.
+The rocket platform itself is not the primary focus, the emphasis is the TCLS hardware, control algorithms, and validation testing necessary to achieve reliable vertical landing.
 
- <img width="149" height="141" alt="Image" src="https://github.com/user-attachments/assets/14417999-1122-4714-a8b4-7e24a13cc662" />
+<img width="1919" height="1079" alt="Screenshot 2025-12-27 183241" src="https://github.com/user-attachments/assets/79cd21fa-7c46-4e62-876f-caefa85acac0" />
 
 Project Goals:
 - Develop a fully functional thrust vectoring system capable of four-axis gimbal control for ascent and landing.
@@ -69,3 +69,5 @@ Simulation Work
 
 To validate feasibility, ascent and landing behavior is simulated using Xcos (SciLab).
 Simulations include gyro stabilization behavior, ascent velocity and altitude curves, and TVC response testing. Early results indicate stable linear altitude growth and adequate thrust-to-weight margin, confirming the motor’s suitability for controlled ascent.
+
+<img width="1278" height="558" alt="Screenshot 2025-10-20 130955" src="https://github.com/user-attachments/assets/0a7a432d-b494-4631-8b4a-9334ebb26df2" />
