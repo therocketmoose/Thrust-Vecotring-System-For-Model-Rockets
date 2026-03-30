@@ -52,7 +52,7 @@ Core Components:
 
 - Structure: Carbon fiber body, TVC gimbal, electronics bay, reaction wheel assembly.
 
-<img width="1030" height="716" alt="Image" src="https://github.com/user-attachments/assets/bd0fde57-8fbf-4c6b-bdda-b559973ebc9c" />
+<img width="1174" height="845" alt="Screenshot 2026-03-10 190502" src="https://github.com/user-attachments/assets/bb8ba3da-eaf0-4526-8553-b786cc06f040" />
 
 CAD & Mechanical: 
 The CAD design includes
